@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="17.0.0.0"
+    CreationTime="2024-11-06 02:59:52 (UTC)"
+    Runtime="SMART"
+    RtProjectName="level-controle-factoryIO.HMI_1[KTP900 Basic PN]"
+    RtProjectFolderName="level-controle-factoryIO.HMI_1[KTP900 Basic PN]"
+    DeviceType="KTP900_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="17.0.0.0"
+    ImageReleaseNo="17.0.0.0"
+    RTCV="17.0.0.0"
+    PRCV="17.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="KTP900" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <License
+    type="WCSSBP9999">WinCC Sm@rtServer for SIMATIC Basic Panel</License>
+  <FullDownload>pdata.rld</FullDownload>
+</DownloadTask>
